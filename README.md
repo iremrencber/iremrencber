@@ -1,7 +1,7 @@
 # 💫 Hi 🙃, I'm Irem! 
 a computer engineering student and self-improved in the programming world
 
-💻 I use Java and Python programming languages<br>🌱 I’m currently learning Kotlin<br>🔗 How to reach me iremrencber08@gmail.com<br>🤠 Fun fact: I am really into taking photos!
+💻 I use Java and Python programming languages<br>🌱 I’m currently learning C#<br>🔗 How to reach me iremrencber08@gmail.com<br>🤠 Fun fact: I am really into taking photos!
 
 
 ## 🌐 Socials:
