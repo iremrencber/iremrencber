@@ -11,8 +11,6 @@ HTML, CSS, JavaScript
 
 Python, SQL
 
-Git & GitHub
-
 React (Basics)
 
 🌱 Currently improving my skills in Frontend Development, Data Analytics and AI technologies.
