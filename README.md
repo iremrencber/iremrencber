@@ -1,7 +1,23 @@
-# 💫 Hi 🙃, I'm Irem! 
-a computer engineering student and self-improved in the programming world
+💫 Hi, I'm Irem! 👋
 
-💻 I use Java and Python programming languages<br>🌱 I’m currently learning C#<br>🔗 How to reach me iremrencber08@gmail.com<br>🤠 Fun fact: I am really into taking photos!
+🎓 Computer Engineering Graduate
+💻 Interested in Software Development, Frontend Technologies & Data Analytics.
+
+🛠️ Tech Stack & Skills
+
+C#, .NET, Java
+
+HTML, CSS, JavaScript
+
+Python, SQL
+
+Git & GitHub
+
+React (Basics)
+
+🌱 Currently improving my skills in Frontend Development, Data Analytics and AI technologies.
+
+🚀 I enjoy building projects, exploring new technologies, and turning ideas into practical solutions.
 
 
 ## 🌐 Socials:
